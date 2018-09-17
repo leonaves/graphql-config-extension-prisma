@@ -12,12 +12,12 @@
     "prisma-yml": "1.0.97"
   },
   "devDependencies": {
-    "@types/graphql": "^14.0.0",
-    "@types/jest": "^23.3.2",
+    "@types/graphql": "14.0.0",
+    "@types/jest": "23.3.2",
     "@types/node": "10.9.4",
-    "graphql": "^14.0.2",
-    "jest": "^23.6.0",
-    "ts-jest": "^23.1.4",
+    "graphql": "14.0.2",
+    "jest": "23.6.0",
+    "ts-jest": "23.1.4",
     "ts-node": "7.0.1",
     "typescript": "3.0.3"
   },
